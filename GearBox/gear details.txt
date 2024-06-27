@@ -1,0 +1,12 @@
+Big gear z = 20 , m = 1.50mm;
+ outer diameter : 33mm;
+ pitch = 15mm;
+
+Small gear z = 10 , m = 1.50mm;
+ outer diameter: 18mm;
+
+outer diameter formula = (m*z)+(2*m)
+
+ratio = 2;
+
+small to big center distance = m(z1 + z2)/2 = 22.5mm;
